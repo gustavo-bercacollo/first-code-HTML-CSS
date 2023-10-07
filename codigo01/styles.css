@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Pixelify Sans', cursive;
+}
+
+.titulo{
+    font-size: 70px;
+    text-shadow: 5px 5px 0 rgb(32, 32, 32);
+}
+
+.principal{
+    background-image: url(img/imagem\ de\ fundo.gif);
+    text-align: center;
+    height: 100vh;
+    padding: 60px;
+}
+
+.subtitulo{
+    text-shadow: 2px 2px 0 rgb(32, 32, 32);
+}
+
+.github_img{
+    width: 32px; 
+    height: auto; 
+    margin-right: 5px;
+}
+
+.likedin_img{
+    width: 32px; 
+    height: auto; 
+    margin-left: 5px;
+}
+
